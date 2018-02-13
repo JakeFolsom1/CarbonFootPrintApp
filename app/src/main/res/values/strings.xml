@@ -1,6 +1,25 @@
 <resources>
-    <string name="app_name">CarbonFootPrintProject</string>
+    <string name="app_name">What is your carbon footprint?</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="trans_prompt">Select a form of transportation</string>
+    <string-array name="transportation_choices">
+        <item>
+            Car
+        </item>
+
+        <item>
+            Bus
+        </item>
+
+        <item>
+            Walking
+        </item>
+
+        <item>
+            Biking
+        </item>
+
+    </string-array>
 </resources>
